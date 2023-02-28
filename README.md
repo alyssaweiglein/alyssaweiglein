@@ -21,6 +21,4 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
-<p align='center'>
-  <a href="https://komarev.com/ghpvc/?username=alyssaweiglein" />
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
