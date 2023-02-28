@@ -33,6 +33,3 @@
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=alyssaweiglein&color=yellow" />
 </p>
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
