@@ -12,11 +12,15 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alyssaweiglein&show_icons=true&count_private=true&theme=highcontrast" width="350"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)">
+    <img src="https://github-readme-stats.vercel.app/api?username=alyssaweiglein&show_icons=true&count_private=true&theme=highcontrast" width="350">
+  </a>
 </p>
 
 <p align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssaweiglein&layout=compact)](https://github.com/alyssaweiglein/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  </a>
 </p>
 
 <p align='center'>
