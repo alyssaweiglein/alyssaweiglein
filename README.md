@@ -30,4 +30,6 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=alyssaweiglein&color=yellow)
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=alyssaweiglein&color=yellow" />
+</p>
