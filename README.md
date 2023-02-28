@@ -22,5 +22,5 @@
 </p>
 
 <p align='center'>
-  ![](https://komarev.com/ghpvc/?username=alyssaweiglein)
+  <a href="https://komarev.com/ghpvc/?username=alyssaweiglein" />
 </p>
